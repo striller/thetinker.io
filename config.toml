@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'thetinker.io'
+languageCode = 'de-De'
 title = 'My New Hugo Site'
 theme = 'blackburn'
